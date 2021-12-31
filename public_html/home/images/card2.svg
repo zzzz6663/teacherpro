@@ -1,0 +1,9 @@
+<svg id="Credit_card" data-name="Credit card" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Credit-card">
+    <rect id="Rectangle" width="24" height="24" fill="#f27677" opacity="0"/>
+    <path id="Stroke-1" d="M12,19c-7.8,0-9-1.75-9-7s1.2-7,9-7,9,1.75,9,7S19.8,19,12,19Z" fill="none" stroke="#f27677" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    <path id="Stroke-3" d="M4,9H20" fill="none" stroke="#f27677" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    <path id="Stroke-5" d="M7,14H9" fill="none" stroke="#f27677" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+    <path id="Fill-7" d="M13,14a1,1,0,1,1-1-1,1,1,0,0,1,1,1" fill="#f27677" fill-rule="evenodd"/>
+  </g>
+</svg>
