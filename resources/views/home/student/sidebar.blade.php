@@ -24,6 +24,7 @@
         </div>
         <div class="name">
             {{auth()->user()->name}}
+            {{auth()->user()->family}}
         </div>
         <div class="email"> {{auth()->user()->email}}   </div>
     </div>

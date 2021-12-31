@@ -223,7 +223,7 @@ class HomeController extends Controller
 
             Auth::loginUsingId($user->id,true);
 
-//          $user->sms_code(new SendKaveCode(  ['login'=>$rnd],'57350',$mobile));
+        //  $user->sms_code(new SendKaveCode(  ['login'=>$rnd],'57350',$mobile));
 //          $user->sms_code('register',$user->name);
 
             $url=null;

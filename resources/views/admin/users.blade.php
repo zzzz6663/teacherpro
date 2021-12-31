@@ -44,7 +44,7 @@
                                 @foreach($students as $user)
                                     <tr>
                                         <td>{{$loop->iteration}}</td>
-                                        <td>{{$user->name}}</td>
+                                        <td>{{$user->name}} {{$user->family}}</td>
                                         <td>{{$user->mobile}}</td>
                                         <td>
                                             <span class="badge  badge-{{($user->active==1)?'success':'danger'}} ">{{($user->active==1)?'فعال':'غیر فعال'}}</span>
